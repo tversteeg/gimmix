@@ -1,0 +1,4 @@
+ftbfs-curl-types.patch
+ftbfs-hardening.patch
+fix_curl_segfault.patch
+ftbfs_glib.patch
